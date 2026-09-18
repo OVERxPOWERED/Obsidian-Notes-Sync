@@ -5,4 +5,4 @@ tags: [index]
 
 # Reference Document
 
-Here is a link to [[Phase6 Beta]] and an aliased link [[Phase6 Beta|the alpha study]].
+Here is a link to [[Phase6 Alpha]] and an aliased link [[Phase6 Alpha|the alpha study]].
